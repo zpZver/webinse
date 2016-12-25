@@ -1,0 +1,85 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: #555;
+	font: normal 15pt Arial, Helvetica, sans-serif;
+	background:url("../images/backgraund.jpg" ) 50% 0% no-repeat transparent;
+
+}
+.table_head{
+
+	color: black;
+	background:linear-gradient(to bottom, #a6a1a6 5%, #d1d1d1 100%);
+}
+table {
+	
+	color: white;
+	text-align: center; 
+	margin-left: 220pt;  
+    width: 65%; 
+    border-spacing: 17px 11px; 
+   }
+
+.edit_name {
+    padding: 5px; 
+    border: 1px solid #d9d9d9; 
+	
+   }
+.edit_surname{
+	  padding: 5px; 
+    border: 1px solid #d9d9d9; 
+}  
+
+.edit_email{
+	  padding: 5px; 
+    border: 1px solid #d9d9d9; 
+}
+	
+#Name{
+	padding: 3;
+	margin-top: 10pt;
+	margin-bottom: 10pt;
+	margin-left: 230pt;
+	font: normal 11pt Arial, Helvetica;
+	}
+#Surname{
+	padding: 3;
+	margin-left: 20pt;
+	font: normal 11pt Arial, Helvetica;
+	}
+#Email{
+	padding: 3;
+	margin-left: 20pt;
+	font: normal 11pt Arial, Helvetica;
+	}
+
+#errors{
+	text-align: center; 
+	margin-top: 10pt;
+	}
+	
+.Signup {
+	margin-left: 20pt;
+	background:linear-gradient(to bottom, #fafafa 5%, #a6a1a6 100%); 
+	border-radius:6px;
+	border:1px solid #d9d9d9;
+	font-family:Arial;
+ 	font-size:12px;
+	font-weight:bold; 
+	padding:6px 24px;
+	text-shadow:0px 1px 0px #d1d1d1;
+}
+
+.del{
+	margin-right: 12pt;
+	background:linear-gradient(to bottom, #fafafa 5%, #a6a1a6 100%); 
+	border-radius:6px;
+	border:1px solid #d9d9d9;
+	font-family:Arial;
+ 	font-size:12px;
+	font-weight:bold; 
+	padding:6px 24px;
+	text-shadow:0px 1px 0px #d1d1d1;
+}
+
+
